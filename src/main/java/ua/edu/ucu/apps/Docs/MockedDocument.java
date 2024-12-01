@@ -1,4 +1,4 @@
-package ua.edu.ucu.apps.documents;
+package ua.edu.ucu.apps.Docs;
 
 public class MockedDocument extends DocumentDecorator {
     public MockedDocument() {

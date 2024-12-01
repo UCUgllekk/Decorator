@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import ua.edu.ucu.apps.documents.MockedDocument;
-import ua.edu.ucu.apps.documents.TimedDocument;
+import ua.edu.ucu.apps.Docs.MockedDocument;
+import ua.edu.ucu.apps.Docs.TimedDocument;
 
 public class TimedDocumentTest {
     @Test

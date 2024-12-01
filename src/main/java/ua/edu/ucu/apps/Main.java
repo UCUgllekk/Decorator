@@ -1,9 +1,9 @@
 package ua.edu.ucu.apps;
 
-import ua.edu.ucu.apps.documents.CachedDocument;
-import ua.edu.ucu.apps.documents.Document;
-import ua.edu.ucu.apps.documents.SmartDocument;
-import ua.edu.ucu.apps.documents.TimedDocument;
+import ua.edu.ucu.apps.Docs.CachedDocument;
+import ua.edu.ucu.apps.Docs.Document;
+import ua.edu.ucu.apps.Docs.SmartDocument;
+import ua.edu.ucu.apps.Docs.TimedDocument;
 
 public class Main {
     public static void main(String[] args) {

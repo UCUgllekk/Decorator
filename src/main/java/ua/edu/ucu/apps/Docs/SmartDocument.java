@@ -1,4 +1,4 @@
-package ua.edu.ucu.apps.documents;
+package ua.edu.ucu.apps.Docs;
 
 import net.sourceforge.tess4j.Tesseract;
 import net.sourceforge.tess4j.TesseractException;

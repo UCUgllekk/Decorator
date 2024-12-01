@@ -1,4 +1,4 @@
-package ua.edu.ucu.apps.documents;
+package ua.edu.ucu.apps.Docs;
 
 import java.sql.*;
 

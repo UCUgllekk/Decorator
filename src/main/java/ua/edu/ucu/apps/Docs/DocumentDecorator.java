@@ -1,4 +1,4 @@
-package ua.edu.ucu.apps.documents;
+package ua.edu.ucu.apps.Docs;
 
 public class DocumentDecorator implements Document{
     private Document document;

@@ -1,5 +1,5 @@
 import org.junit.Test;
-import ua.edu.ucu.apps.documents.MockedDocument;
+import ua.edu.ucu.apps.Docs.MockedDocument;
 
 import java.time.Duration;
 
